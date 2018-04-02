@@ -10,7 +10,7 @@ namespace XamagonXuzzle
 
         const string UrlPrefijo = "https://raw.githubusercontent.com/jotalexvalencia/XamarinUnad/master/XamUnad/XamUnad/img/"; 
 
-        // Url prefijo con las nuevas imagenes
+        // Url prefijo con las nuevas imagenes 
 
         public Tile(int row, int col)
         {
