@@ -1,22 +1,11 @@
-Xuzzle
-======
+XuzzleFamily
+============
 
-This is a variation of the classic 14-15 puzzle. On the early Mac, the 14-15 program was called PUZZLE.
-In early Windows, it was the only sample
-application for Microsoft Pascal for Windows 1.0, where it was called MUZZLE (for "Microsoft Puzzle").
-This is the Xamarin.Forms version, so it's called Xuzzle, and the 15 tiles spell out the text
-"{XAMARIN.FORMS}".
+Esta es una variación del clásico rompecabezas 14-15. En los primeros Mac, el programa 14-15 se llamaba PUZZLE. En principios de Windows, era la única aplicación de muestra para Microsoft Pascal para Windows 1.0, donde se llamaba MUZZLE (para "Microsoft Puzzle"). Esta es la versión de Xamarin.Forms, por lo que se llama Xuzzle, y las 15 fichas son con mi madre.
 
-After pressing the Randomize button, just tap a tile to move it into an empty position. 
-You can *tap* any tile in the row or column 
-of the empty position to move one, two, or three tiles at once. 
-
-When you successfully complete the puzzle, you'll be rewarded with an animation.
-
-This program is adapted from https://github.com/xamarin/xamarin-forms-book-samples/tree/master/Chapter22/XamagonXuzzle.
-
+Después de presionar el botón Randomize, simplemente toque una ficha para moverlo a una posición vacía. Puede tocar cualquier ficha en la fila o columna de la posición vacía para mover una, dos o tres fichas a la vez.
 
 Author
 ------
 
-Charles Petzold
+Jorge Alexander Valencia Valencia
