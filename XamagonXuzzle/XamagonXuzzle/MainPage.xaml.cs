@@ -15,7 +15,7 @@ namespace XamagonXuzzle
 
         // Array of tiles
         public Tile[,] tiles = new Tile[NUM, NUM];
-        // Array to compare and determine the winner
+
         public Tile[,] pieza = new Tile[NUM, NUM];
 
         // Empty row and column
